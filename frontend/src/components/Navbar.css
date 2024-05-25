@@ -1,0 +1,8 @@
+.nav-bar-top{
+    padding: 2vh 4vw;
+    align-items: center;
+    justify-content: space-between
+}
+.pdf-name{
+    margin-right: 20px;
+}

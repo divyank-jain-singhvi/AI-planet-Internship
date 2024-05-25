@@ -1,0 +1,49 @@
+.question-input-block{
+    width: 100vw;
+    position: fixed;
+    bottom: 15vh;
+    display: flex;
+    justify-content: center;
+
+}
+.question-input{
+    border:2px solid rgb(76, 76, 76);
+    width: 80%;
+    height: 6vh;
+    border-right: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 2vh;
+    
+}
+
+.submit-btn{
+    border:2px solid rgb(76, 76, 76);
+    border-left: none;
+    height: 6vh;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: white;
+
+}
+.one-chat-div{
+    max-width: 85%;
+    margin: auto;
+}
+.question{
+    margin-bottom: 3vh;
+    margin-top: 5vh;
+}
+.result{
+    display: flex;
+}
+.question-image{
+    margin-right: 2vh;
+    width: 3vw;
+    height: 6vh;
+}
+.bot-image{
+    width: 3vw;
+    height: 6vh;
+    margin-right: 2vh;
+}
